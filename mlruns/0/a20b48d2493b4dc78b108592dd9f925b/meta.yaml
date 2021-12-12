@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/blasa/Documents/Data%20Science/Articles/Heartbeat/Enhancing%20ML%20Flow%20with%20Comet/mlruns/0/a20b48d2493b4dc78b108592dd9f925b/artifacts
+end_time: 1639328128909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a20b48d2493b4dc78b108592dd9f925b
+run_uuid: a20b48d2493b4dc78b108592dd9f925b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1639328126382
+status: 3
+tags: []
+user_id: blasa
