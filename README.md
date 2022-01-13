@@ -5,15 +5,15 @@
 
 ## Repository Structure
 * README.md: Project Description
-* Azure-DB-Comet.py: Main Source Code from Databricks 
-* Azure DB-Comet_Jpyter.ipynb: Jupyter Notebook Version of Azure-DB-Comet
+* main.ipynb: Jupyter Notebook with MLflow code example 
+
 ## About This Project
 
-This is the companion respository for the Heartbeat article <i>Integrating Azure and Comet</i>
+This is the companion respository for the Heartbeat article <i>Enhancing MLflow with Comet</i>
 by Matt Blasa.  
 
 The contents of this repository is example source code demonstrating Comet's machine learning
-and experiment tracking within in a Azure Databricks environment. 
+and experiment tracking used for MLflow machine learning experiments. 
 
 Click below for the Medium article: 
 
@@ -21,24 +21,8 @@ Click below for the Medium article:
 
 ## Data 
 
-The data used in this project is from the diamond dataset, which contains the prices and other attributes of almost 54,000 diamonds. 
-
-The data set was loaded directly from a Microsoft hosted Azure storage blob that holds example data sets. Code to load the data set from the blob is included in both the Python file and the jupyter notebook. 
-
-The data set contains 10 columns: 
-
-* price -  price in US dollars (numeric)
-* carat -  weight of the diamond (numeric)
-*cut - quality of the cut (categorical)
-* color -  diamond color (categorical)
-* clarity - a measurement of how clear the diamond is (categorical)
-* x -  length in mm (numeric)
-* y -  width in mm (numeric)
-* z -  depth in mm (numeric)
-* depth -  total depth (numeric)
-* table -  width of top of diamond relative to widest point (numeric)
-
-A website with a detailed description of these terms can be found below, in the project links section. 
+The data used in this project is taken from the University of Californina Irvine wine quality dataset which can be found here:
+https://archive.ics.uci.edu/ml/datasets/wine
 
 ## Installation
 
@@ -64,10 +48,7 @@ is able to log any existing MLFlow workflow in Databricks.
 <b>Using Project File</b>
 
 <i>NOTE: that Comet API Key has been removed from project file, for privacy reasons. 
-You will need to add your experiment API key to log data from Databricks </i>
-
-To install the file to a Databricks notebook, download the repository and upload the
-file via the import notbooks option in Databricks. To access file import, first right click in the workspace and click "import" 
+You will need to add your experiment API key to use part of this code </i>
 
 ![Logo](https://i.ibb.co/QbnQqyR/Import.png)
 <br>
