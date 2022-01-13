@@ -17,7 +17,7 @@ and experiment tracking used for MLflow machine learning experiments.
 
 Click below for the Medium article: 
 
-[![medium](https://img.shields.io/badge/Integrating_Azure_&_Comet-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://heartbeat.comet.ml/integrating-comet-and-azure-databricks-4ec97703a2fe)
+https://heartbeat.comet.ml/integrating-comet-and-azure-databricks-4ec97703a2fe
 
 ## Data 
 
@@ -39,7 +39,7 @@ You will need to add your experiment API key to use part of this code </i>
 
 ## 🔗  Project Links
 
-* Comet Experiment: https://www.comet.ml/mattblasa/azure-and-comet/view/new
+* Comet Experiment: https://www.comet.ml/mattblasa/enhancing-ml-flow/view/new/panels
 * Comet Documentation: https://www.comet.ml/docs/python-sdk/Experiment/
 
 
