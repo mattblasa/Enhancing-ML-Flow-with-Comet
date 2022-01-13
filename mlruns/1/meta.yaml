@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/blasa/Documents/Data%20Science/Articles/Heartbeat/Enhancing%20ML%20Flow%20with%20Comet/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: test_ml_flow
