@@ -1,8 +1,5 @@
 
 
-![Logo]()
-
-
 ## Repository Structure
 * README.md: Project Description
 * main.ipynb: Jupyter Notebook with MLflow code example 
