@@ -1,6 +1,6 @@
 
 
-![Logo](https://i.ibb.co/QD7zJ3d/integrating.png)
+![Logo]()
 
 
 ## Repository Structure
