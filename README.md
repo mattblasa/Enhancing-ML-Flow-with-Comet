@@ -14,7 +14,7 @@ and experiment tracking used for MLflow machine learning experiments.
 
 Click below for the Medium article: 
 
-https://heartbeat.comet.ml/integrating-comet-and-azure-databricks-4ec97703a2fe
+https://medium.com/fritzheartbeat/enhancing-mlflow-with-comet-a39def1954e8
 
 ## Data 
 
